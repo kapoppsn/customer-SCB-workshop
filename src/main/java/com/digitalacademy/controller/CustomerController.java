@@ -2,7 +2,6 @@ package com.digitalacademy.controller;
 
 import com.digitalacademy.model.Customer;
 import com.digitalacademy.service.CustomerService;
-import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -10,7 +9,6 @@ import org.springframework.web.bind.annotation.*;
 
 
 import javax.validation.Valid;
-import javax.websocket.server.PathParam;
 import java.util.List;
 
 

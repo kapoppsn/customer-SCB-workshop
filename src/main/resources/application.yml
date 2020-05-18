@@ -22,3 +22,12 @@ spring:
       name: kapop
       password: password
       roles: ADMIN
+
+  loan:
+    host: http://localhost:8082/api/loan
+    endpoint:
+      getInfo: info
+
+restTemplate:
+  connectionTimeout: 5000
+  readTimeout: 10000
