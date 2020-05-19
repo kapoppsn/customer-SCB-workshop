@@ -2,11 +2,7 @@ package com.digitalacademy.controller;
 
 
 import com.digitalacademy.api.LoanApi;
-import com.digitalacademy.controller.CustomerController;
-import com.digitalacademy.controller.LoanController;
 import com.digitalacademy.model.response.GetLoanInfoResponse;
-import com.digitalacademy.support.CustomerSupportTest;
-import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -21,8 +17,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import static com.digitalacademy.controller.CustomerControllerTest.urlCustomerList;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

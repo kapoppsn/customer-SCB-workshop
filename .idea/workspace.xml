@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="713ff78f-b85c-44aa-937c-c3cc74ba6a56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/api/LoanApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/config/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/controller/LoanController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/model/response/GetLoanInfoResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/util/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/api/LoanServiceApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/controller/CustomerControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/controller/LoanControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/service/CustomerServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/support/CustomerSupportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digitalacademy/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digitalacademy/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digitalacademy/repositories/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/repositories/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digitalacademy/security/SecurityConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/security/SecurityConf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digitalacademy/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digitalacademy/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/digitalacademy/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/digitalacademy/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/digitalacademy/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/digitalacademy/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/digitalacademy/api/LoanServiceApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/api/LoanServiceApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/digitalacademy/controller/LoanControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/digitalacademy/controller/LoanControllerTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +155,7 @@
       <workItem from="1589430734787" duration="16760000" />
       <workItem from="1589511687469" duration="6000" />
       <workItem from="1589514766025" duration="46000" />
-      <workItem from="1589767860630" duration="28022000" />
+      <workItem from="1589767860630" duration="34953000" />
     </task>
     <servers />
   </component>
